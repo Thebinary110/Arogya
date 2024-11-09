@@ -40,7 +40,7 @@ First, clone the repository:
 
 ```bash
 git clone https://github.com/thebinary110/eres.git
-cd medical
+cd eres
 ```
 
 Install the necessary packages using `npm`:
